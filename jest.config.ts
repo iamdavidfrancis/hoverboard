@@ -8,7 +8,6 @@ const ES_MODULE_DEPENDENCIES = [
   '@material',
   'lit',
   'pwa-helpers',
-  'testing-library__dom',
 ].join('|');
 
 const config: InitialOptionsTsJest = {
